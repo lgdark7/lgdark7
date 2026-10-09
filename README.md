@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-hero.svg" width="100%" alt="Obito / lgdark7 Banner" />
+<img src="./banner-hero.svg" width="100%" alt="Benhin / lgdark7 Banner" />
 
 <br/><br/>
 
