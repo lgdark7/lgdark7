@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I am **Obito** (`lgdark7`), a **Native Android Systems Architect** and **Low-Level Multimedia Engineer** focused on building high-performance, zero-bloat mobile systems and real-time streaming infrastructure. Passionate about low-level audio/video pipelines, protocol engineering (RTMP/FLV), broadcast DSP, and Kali Linux / security architecture.
+I am **Benhin** (`lgdark7`), a **Native Android Systems Architect** and **Low-Level Multimedia Engineer** focused on building high-performance, zero-bloat mobile systems and real-time streaming infrastructure. Passionate about low-level audio/video pipelines, protocol engineering (RTMP/FLV), broadcast DSP, and Kali Linux / security architecture.
 
 - ⚡ **Pure-Kotlin Native Multimedia**: Engineering ultra-low latency real-time streaming architectures without third-party bloat. Architect of **[FAIRY LIVE](https://github.com/lgdark7/FairyLive)** (<15MB APK constraint, hardware MediaCodec H.264/AAC encoding, Camera2, MediaProjection, and pure-Kotlin RTMP socket engine).
 - 🎵 **High-Fidelity Audio Engines**: Developing modern Android music streaming ecosystems including **[FAIRY MUSIC](https://github.com/lgdark7/FAIRY-MUSIC)** — featuring real-time synchronized "Play Together" host-client playback, 120 FPS buttery-smooth UI, Apple Music Canvas visuals, and multi-source lyrics/metadata integration.
