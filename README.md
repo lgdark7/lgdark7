@@ -110,7 +110,6 @@ I am **Benhin** ([`@Benhin3025`](https://github.com/lgdark7)), a **Native Androi
 | **🔴 [FAIRY LIVE](https://github.com/lgdark7/FairyLive)** | Zero-bloat native Android live streaming engine (<15MB APK constraint). Pure-Kotlin RTMP stack, MediaProjection & Camera2, hardware H.264/AAC encoding, and broadcast studio DSP. | `Kotlin`, `MediaCodec`, `RTMP/FLV`, `Audio DSP`, `Camera2` |
 | **🎵 [FAIRY MUSIC](https://github.com/lgdark7/FAIRY-MUSIC)** | Material Design Android music streaming app. Features synchronized "Play Together" host/client engine, 120 FPS fluid scroll, Apple Canvas visuals, and multi-source lyrics syncing. | `Kotlin`, `Jetpack Compose`, `Media3/ExoPlayer`, `InnerTube`, `GPL v3` |
 | **📦 [fairylive-releases](https://github.com/lgdark7/fairylive-releases)** | Public distribution channel and automated OTA update version manifest pipeline for Fairy Live builds. | `JSON Manifests`, `OTA Engine`, `APK Delivery` |
-| **🩺 [Crre-women-health-application](https://github.com/lgdark7/Crre-women-health-application)** | Specialized mobile health monitoring application and telemetry interface. | `Android`, `Kotlin`, `Health Telemetry` |
 
 ---
 
