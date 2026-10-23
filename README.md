@@ -9,6 +9,7 @@
 <br/>
 
 <p align="center">
+  <a href="https://portfolio-3d-g08zkq2yt-bennyrahul1005-3354s-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-Live_Interactive-38bdf8?style=for-the-badge&logo=three.js&logoColor=09090b&labelColor=09090b" alt="3D Interactive Portfolio" /></a>
   <a href="https://github.com/lgdark7/FAIRY-MUSIC" target="_blank"><img src="https://img.shields.io/badge/Fairy_Music-v1.0.8_Live-09090b?style=for-the-badge&logo=android&logoColor=3ddc84&labelColor=18181b" alt="Fairy Music" /></a>
   <a href="https://github.com/lgdark7/FairyLive" target="_blank"><img src="https://img.shields.io/badge/Fairy_Live-RTMP_Engine-09090b?style=for-the-badge&logo=youtube&logoColor=ef4444&labelColor=18181b" alt="Fairy Live" /></a>
   <img src="https://img.shields.io/badge/Security-Kali_Linux-09090b?style=for-the-badge&logo=kalilinux&logoColor=38bdf8&labelColor=18181b" alt="Kali Linux" />
@@ -107,6 +108,7 @@ I am **Benhin** ([`@Benhin3025`](https://github.com/lgdark7)), a **Native Androi
 
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
+| **🌐 [3D Studio Portfolio](https://github.com/lgdark7/portfolio-3d)** ([Live 3D WebGL](https://portfolio-3d-g08zkq2yt-bennyrahul1005-3354s-projects.vercel.app)) | Bob's Burgers cel-shaded 3D interactive studio experience. Continuous mouse-wheel camera rail across 5 spatial stations, procedural Web Audio synthesizer, and enterprise security hardening. | `Three.js`, `WebGL`, `React 19`, `TypeScript`, `Tailwind CSS`, `Vercel` |
 | **🔴 [FAIRY LIVE](https://github.com/lgdark7/FairyLive)** | Zero-bloat native Android live streaming engine (<15MB APK constraint). Pure-Kotlin RTMP stack, MediaProjection & Camera2, hardware H.264/AAC encoding, and broadcast studio DSP. | `Kotlin`, `MediaCodec`, `RTMP/FLV`, `Audio DSP`, `Camera2` |
 | **🎵 [FAIRY MUSIC](https://github.com/lgdark7/FAIRY-MUSIC)** | Material Design Android music streaming app. Features synchronized "Play Together" host/client engine, 120 FPS fluid scroll, Apple Canvas visuals, and multi-source lyrics syncing. | `Kotlin`, `Jetpack Compose`, `Media3/ExoPlayer`, `InnerTube`, `GPL v3` |
 | **📦 [fairylive-releases](https://github.com/lgdark7/fairylive-releases)** | Public distribution channel and automated OTA update version manifest pipeline for Fairy Live builds. | `JSON Manifests`, `OTA Engine`, `APK Delivery` |
@@ -132,6 +134,7 @@ I am **Benhin** ([`@Benhin3025`](https://github.com/lgdark7)), a **Native Androi
   <b>“Building the edge between low-level hardware performance and seamless multimedia realities.”</b><br>
   <i>Always open to collaborating on high-performance Android systems, real-time protocols, and audio/video pipelines!</i>
   <br/><br/>
-  <a href="https://discord.gg/AWAe8gS7yq"><img src="https://img.shields.io/badge/Discord-Join_Community-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://guns.lol/lg_dark"><img src="https://img.shields.io/badge/Guns.lol-lg__dark-f43f5e?style=for-the-badge&logo=target&logoColor=white" alt="Guns.lol" /></a>
+  <a href="https://portfolio-3d-g08zkq2yt-bennyrahul1005-3354s-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-3D_Studio-38bdf8?style=for-the-badge&logo=three.js&logoColor=09090b" alt="3D Studio Portfolio" /></a>
+  <a href="https://discord.gg/AWAe8gS7yq" target="_blank"><img src="https://img.shields.io/badge/Discord-Join_Community-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://guns.lol/lg_dark" target="_blank"><img src="https://img.shields.io/badge/Guns.lol-lg__dark-f43f5e?style=for-the-badge&logo=target&logoColor=white" alt="Guns.lol" /></a>
 </div>
